@@ -1,4 +1,4 @@
 # Computer-Graphics
-<title>A Programmer Life</title>
+# A Programmer Life
 <img src="A Programmer Life.JPG" width="1200"
          height="650">
