@@ -1,3 +1,3 @@
 # Computer-Graphics
-<img src="A Programmer Life.JPG" width="1000"
-         height="800">
+<img src="A Programmer Life.JPG" width="1200"
+         height="650">
